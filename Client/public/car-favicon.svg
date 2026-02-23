@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#0f172a"/>
+  
+  <!-- Car Body -->
+  <path d="M14 38 L20 26 C21 23 24 22 27 22 H37 C40 22 43 23 44 26 L50 38 Z" fill="#38bdf8"/>
+  
+  <!-- Windows -->
+  <rect x="26" y="25" width="12" height="7" rx="2" fill="#e0f2fe"/>
+  
+  <!-- Wheels -->
+  <circle cx="22" cy="42" r="5" fill="#020617"/>
+  <circle cx="42" cy="42" r="5" fill="#020617"/>
+  <circle cx="22" cy="42" r="2" fill="#94a3b8"/>
+  <circle cx="42" cy="42" r="2" fill="#94a3b8"/>
+</svg>
